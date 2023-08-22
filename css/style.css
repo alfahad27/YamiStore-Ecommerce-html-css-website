@@ -1,0 +1,128 @@
+*{
+    border: 0;
+    padding: 0;
+}
+.yami-logo{
+    width: 225px;
+}
+.head-section{
+    background-color:rgb(255, 255, 255);
+}
+.chin{
+    color: rgb(170, 125, 69);
+    font-size: 44px;
+}
+.people
+{
+    color: rgb(170, 125, 69);;
+}
+.nav-item{
+    font-size: 23px;
+}
+.img-fluid{
+    max-width:auto;
+}
+.yami-navbar{
+    background-color: black;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+.single-line {
+    display: inline;
+    white-space: nowrap;
+    margin-right: 20px;
+  }
+#text-style{
+    color: rgb(0, 0, 0);
+    font-size: 70px;
+    padding-top: 0%;
+}
+.text-style2{
+    font-size: 60px;
+}
+.yami-catagory, .text-style2{
+    color: black;
+}
+.yami-card-img{
+    padding: 5%;
+    background-color: rgba(241, 241, 241, 1);
+    margin: 4% auto;
+    overflow: hidden;
+    transition: 0.3s all ease-in-out; 
+}
+.yami-card-img:hover{
+    transform: scale(1.3);
+}
+.yami-info{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+.yami-card-border, .yami-card-img{
+    border-radius: 1em;
+}
+.price-text-style{
+    color: black;
+    font-weight: bold;
+}
+.yami-card-footer, .yami-card-border{
+    background-color: white;
+    border: 0;
+}
+.yami-btn{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 7px;
+    padding-right: 15px;
+    font-size: 15px;
+    border-radius: 19px;
+    background-color: black;
+    color: white;
+}
+.yami-btn:hover{
+    color:rgb(102, 102, 74);
+}
+.footer-section{
+    background-color:black;
+    padding: 3% 1% 1% 1%;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+
+      
